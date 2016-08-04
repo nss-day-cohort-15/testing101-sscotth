@@ -6,7 +6,7 @@
   "scripts": {
     "deploy": "gh-pages -d src",
     "start": "http-server src",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "open http://localhost:8080/test.html"
   },
   "repository": {
     "type": "git",
